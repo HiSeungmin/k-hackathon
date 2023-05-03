@@ -25,8 +25,9 @@
  반려동물을 입양한 이후에도 애견인, 애묘인을 위해 지역 커뮤니티를 조성하여 사람들 간 소통이 원활히 이루어지게 한다. 전문가는 인증 후 공인계정으로 접속하게 하여 해당 동물병원 이름과 의사 이름 등을 보여주게 한다. 지역 커뮤니티 사용자는 해당 의사나 간호사에게 별점을 매길 수 있다. 이 별점 시스템은 모든 사람에게 공유되어 해당 동물병원이 얼마나 신뢰도가 높은 병원인지를 모든 사용자가 알 수 있다. 따라서 의사/ 간호사는 신뢰 자산을 쌓아 병원 홍보에 도움 되게 하고, 일반 사용자는 자신의 부족한 지식에 대해 질문을 하여 전문가에게 정확한 답변을 얻어 돌발상황에 긴급처치를 할 수 있도록 돕는다.
  
  ### 어플리케이션 결과물
- 
-<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k3.png?raw=true" width="300" alt="Tetris game">
-<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k4.png?raw=true" width="300" alt="Tetris game">
-<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k2.png?raw=true" width="300" alt="Tetris game">
-<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k1.png?raw=true" width="300" alt="Tetris game">
+ <div>
+<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k3.png?raw=true" width="200" alt="Tetris game">
+<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k4.png?raw=true" width="200" alt="Tetris game">
+<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k2.png?raw=true" width="200" alt="Tetris game">
+<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k1.png?raw=true" width="200" alt="Tetris game">
+</div>
