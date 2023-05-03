@@ -26,8 +26,8 @@
  
  ### 어플리케이션 결과물
  <div>
-<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k3.png?raw=true" width="200" alt="Tetris game">
-<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k4.png?raw=true" width="200" alt="Tetris game">
-<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k2.png?raw=true" width="200" alt="Tetris game">
-<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k1.png?raw=true" width="200" alt="Tetris game">
+<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k3.png?raw=true" width="250" alt="Tetris game">
+<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k4.png?raw=true" width="250" alt="Tetris game">
+<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k2.png?raw=true" width="250" alt="Tetris game">
+<img src="https://github.com/HiSeungmin/k-hackathon/blob/main/k1.png?raw=true" width="250" alt="Tetris game">
 </div>
